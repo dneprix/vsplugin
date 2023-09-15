@@ -1,0 +1,51 @@
+{
+  "controlPlacements": [
+    {
+      "controlName": "Prisma_Cloud.Command1",
+      "parent": {
+        "legacyParentId": {
+          "guid": "d309f791-903f-11d0-9efc-00a0c911004f",
+          "id": 24576
+        }
+      }
+    }
+  ],
+  "commandSets": [
+    {
+      "name": "Prisma_Cloud.ExtensionEntrypoint",
+      "serviceMoniker": {
+        "name": "Prisma_Cloud.ExtensionEntrypointCommandSet",
+        "version": "1.0"
+      },
+      "commands": [
+        {
+          "tooltipText": "%Prisma_Cloud.Command1.DisplayName%",
+          "flags": "None",
+          "icon": {
+            "IconName": "KnownMonikers.Extension",
+            "iconSettings": "IconAndText"
+          },
+          "name": "Prisma_Cloud.Command1",
+          "displayName": "%Prisma_Cloud.Command1.DisplayName%",
+          "contextProviderName": "Editor,Shell",
+          "priority": 0
+        }
+      ],
+      "dynamicCommandAnchors": []
+    }
+  ],
+  "services": [
+    {
+      "host": "dotnetExtensibility",
+      "name": "Prisma_Cloud.ExtensionEntrypointCommandSet",
+      "serviceBaseDirectory": ".",
+      "serviceAudience": "Local | RemoteExclusiveClient",
+      "version": "1.0",
+      "entryPoint": {
+        "assemblyPath": "Prisma Cloud.dll",
+        "fullClassName": "Prisma_Cloud.ExtensionEntrypoint"
+      },
+      "allowHostingInProcess": false
+    }
+  ]
+}

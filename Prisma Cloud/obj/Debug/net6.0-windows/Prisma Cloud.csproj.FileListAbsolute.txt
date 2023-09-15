@@ -1,0 +1,445 @@
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\.vsextension\extension.json
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\extension.vsixmanifest
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\.vsextension\string-resources.json
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Prisma Cloud.deps.json
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Prisma Cloud.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Prisma Cloud.pdb
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\MessagePack.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\MessagePack.Annotations.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.NET.StringTools.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.ServiceHub.Framework.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Composition.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Extensibility.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Extensibility.Contracts.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Extensibility.Editor.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Extensibility.Editor.Contracts.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Extensibility.EditorHostService.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Extensibility.Framework.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.ProjectSystem.Query.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Text.Core.Implementation.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Threading.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Utilities.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Validation.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Nerdbank.Streams.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\StreamJsonRpc.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Collections.Immutable.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Composition.AttributedModel.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Composition.Convention.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Composition.Hosting.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Composition.Runtime.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Composition.TypedParts.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Reflection.Metadata.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Threading.AccessControl.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Threading.Tasks.Dataflow.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\en\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\cs\StreamJsonRpc.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\de\StreamJsonRpc.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\es\StreamJsonRpc.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\fr\StreamJsonRpc.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\it\StreamJsonRpc.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ja\StreamJsonRpc.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ko\StreamJsonRpc.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pl\StreamJsonRpc.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\StreamJsonRpc.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\ru\StreamJsonRpc.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\tr\StreamJsonRpc.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\StreamJsonRpc.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\StreamJsonRpc.resources.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Threading.AccessControl.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.csproj.AssemblyReference.cache
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.AssemblyInfoInputs.cache
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.AssemblyInfo.cs
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.csproj.CoreCompileInputs.cache
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\obj\Debug\net6.0-windows\project.deploymentassets.json
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.csproj.CopyComplete
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\obj\Debug\net6.0-windows\refint\Prisma Cloud.dll
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.pdb
+C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\obj\Debug\net6.0-windows\ref\Prisma Cloud.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\.vsextension\extension.json
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\extension.vsixmanifest
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\.vsextension\string-resources.json
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Prisma Cloud.deps.json
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Prisma Cloud.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Prisma Cloud.pdb
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\MessagePack.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\MessagePack.Annotations.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.NET.StringTools.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.ServiceHub.Framework.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Composition.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Extensibility.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Extensibility.Contracts.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Extensibility.Editor.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Extensibility.Editor.Contracts.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Extensibility.EditorHostService.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Extensibility.Framework.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.ProjectSystem.Query.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Text.Core.Implementation.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Threading.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Utilities.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Validation.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Nerdbank.Streams.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\StreamJsonRpc.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Collections.Immutable.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Composition.AttributedModel.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Composition.Convention.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Composition.Hosting.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Composition.Runtime.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Composition.TypedParts.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Reflection.Metadata.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Threading.AccessControl.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Threading.Tasks.Dataflow.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.ServiceHub.Resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.Composition.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.Extensibility.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\en\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\cs\StreamJsonRpc.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\de\StreamJsonRpc.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\es\StreamJsonRpc.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\fr\StreamJsonRpc.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\it\StreamJsonRpc.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ja\StreamJsonRpc.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ko\StreamJsonRpc.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pl\StreamJsonRpc.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\pt-BR\StreamJsonRpc.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\ru\StreamJsonRpc.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\tr\StreamJsonRpc.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hans\StreamJsonRpc.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\zh-Hant\StreamJsonRpc.resources.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Threading.AccessControl.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.csproj.AssemblyReference.cache
+C:\Users\dnepr\vsplugin\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnepr\vsplugin\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.AssemblyInfoInputs.cache
+C:\Users\dnepr\vsplugin\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.AssemblyInfo.cs
+C:\Users\dnepr\vsplugin\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.csproj.CoreCompileInputs.cache
+C:\Users\dnepr\vsplugin\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.sourcelink.json
+C:\Users\dnepr\vsplugin\Prisma Cloud\obj\Debug\net6.0-windows\project.deploymentassets.json
+C:\Users\dnepr\vsplugin\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.csproj.CopyComplete
+C:\Users\dnepr\vsplugin\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\obj\Debug\net6.0-windows\refint\Prisma Cloud.dll
+C:\Users\dnepr\vsplugin\Prisma Cloud\obj\Debug\net6.0-windows\Prisma Cloud.pdb
+C:\Users\dnepr\vsplugin\Prisma Cloud\obj\Debug\net6.0-windows\ref\Prisma Cloud.dll

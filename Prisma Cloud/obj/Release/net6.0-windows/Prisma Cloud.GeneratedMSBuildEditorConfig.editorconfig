@@ -1,0 +1,29 @@
+is_global = true
+build_property.DefaultNamespace = 
+build_property.OutDir = bin\Release\net6.0-windows\
+build_property.MSBuildProjectDirectory = C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud
+build_property.ImageAssetsPath = Images
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Prisma_Cloud
+build_property.ProjectDir = C:\Users\dnepr\source\repos\Prisma Cloud\Prisma Cloud\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/dnepr/.nuget/packages/microsoft.visualstudio.threading.analyzers/17.6.40/build/AdditionalFiles/vs-threading.LegacyThreadSwitchingMembers.txt]
+build_metadata.AdditionalFiles.ExtensionMetadata = 
+
+[C:/Users/dnepr/.nuget/packages/microsoft.visualstudio.threading.analyzers/17.6.40/build/AdditionalFiles/vs-threading.MainThreadAssertingMethods.txt]
+build_metadata.AdditionalFiles.ExtensionMetadata = 
+
+[C:/Users/dnepr/.nuget/packages/microsoft.visualstudio.threading.analyzers/17.6.40/build/AdditionalFiles/vs-threading.MainThreadSwitchingMethods.txt]
+build_metadata.AdditionalFiles.ExtensionMetadata = 
+
+[C:/Users/dnepr/.nuget/packages/microsoft.visualstudio.threading.analyzers/17.6.40/build/AdditionalFiles/vs-threading.MembersRequiringMainThread.txt]
+build_metadata.AdditionalFiles.ExtensionMetadata = 
